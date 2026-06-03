@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.0](https://github.com/AUY1105-II/Modulos-AUY1105-Grupo-4/compare/v0.1.0...v0.2.0) (2026-06-03)
+
+
+### Features
+
+* agregar módulo ec2 ([#3](https://github.com/AUY1105-II/Modulos-AUY1105-Grupo-4/issues/3)) ([1f50976](https://github.com/AUY1105-II/Modulos-AUY1105-Grupo-4/commit/1f5097615fb3e35e026c61b5f57de586a0717b6f))
+
 ## 0.1.0 (2026-06-03)
 
 
