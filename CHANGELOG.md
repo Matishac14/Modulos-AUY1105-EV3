@@ -1,6 +1,6 @@
 # Changelog
 
-## [0.4.0](https://github.com/AUY1105-II/Modulos-AUY1105-Grupo-4/compare/v0.3.0...v0.4.0) (2026-06-03)
+## [1.0.0](https://github.com/AUY1105-II/Modulos-AUY1105-Grupo-4/compare/v0.3.0...v0.4.0) (2026-06-03)
 
 
 ### ⚠ BREAKING CHANGES
